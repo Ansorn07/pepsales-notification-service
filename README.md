@@ -36,8 +36,6 @@ POST `/notifications`
 #### Get User Notifications
 GET `/notifications/user/USER_ID`
 
-## ✅ Bonus
-- Simulated queue & retry on delivery
-- Unique code logic to mimic human style
+
 
 ---
