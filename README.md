@@ -1,3 +1,11 @@
+# ✅ Submission for PepSales Backend Intern Assignment
+
+Built by **A.S. Babji Rao (GitHub: [Ansorn07](https://github.com/Ansorn07))**  
+Tech Stack: **Node.js, Express, MongoDB, Redis, BullMQ**
+
+---
+
+
 # PepSales Notification Service
 
 ## 📦 Overview
