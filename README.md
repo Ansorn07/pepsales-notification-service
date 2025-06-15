@@ -44,16 +44,10 @@ GET `/notifications/user/USER_ID`
    cd pepsales-notification-service
 2. Install dependencies:
 
-
-Copy
-Edit
 npm install
 
 3. Run the server:
 
-
-Copy
-Edit
 npm start
 
 ---
