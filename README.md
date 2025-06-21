@@ -33,59 +33,5 @@ POST `/notifications`
 { "userId": "USER_ID", "type": "email", "message": "Hello!" }
 ```
 
-#### Get User Notifications
-GET `/notifications/user/USER_ID`
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ansorn07/pepsales-notification-service.git
-   cd pepsales-notification-service
-2. Install dependencies:
-
-npm install
-
-3. Run the server:
-
-npm start
-
----
-#### Get User Notifications
-GET `/notifications/user/USER_ID`
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ansorn07/pepsales-notification-service.git
-   cd pepsales-notification-service
-2. Install dependencies:
-
-npm install
-
-3. Run the server:
-
-npm start
-
----
-#### Get User Notifications
-GET `/notifications/user/USER_ID`
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ansorn07/pepsales-notification-service.git
-   cd pepsales-notification-service
-2. Install dependencies:
-
-npm install
-
-3. Run the server:
-
-npm start
-
----
 
 
